@@ -1,0 +1,63 @@
+    1  help
+    2  terminal
+    3  cd desktop
+    4  cd Desktop
+    5  cd ..
+    6  Desktop % mkdir HW_10
+    7  cd
+    8  data
+    9  zvdbz hxgmc g
+   10  clear
+   11  help
+   12  clear
+   13  terminal
+   14  ls
+   15  cd HW_10
+   16  cd Readme
+   17  cd Desktop
+   18  clear
+   19  git clone
+   20  cd your-repo
+   21  ls-1
+   22  ls
+   23  cd destop
+   24  cd desktop
+   25  cd postman
+   26  cd Desktop
+   27  clear
+   28  cd Desktop
+   29  cd ~
+   30  mkdir HW_10
+   31  clear
+   32  cd HW_10
+   33  ls
+   34  touch text_ignore.txt
+   35  nano .gitignore
+   36  nano .gitignore
+   37  git status
+   38  git add
+   39  git commit -m "Added text_ignore.txt to .gitignore"
+   40  git add .
+   41  git commit -m "Added text_ignore.txt to .gitignore"
+   42  git config --global user.name "Filip"
+   43  git config --global user.email "filippodduiev@gmail.com"
+   44  git config --list
+   45  git add .
+   46  git commit -m "Added text_ignore.txt to .gitignore"
+   47  touch main_test.txt
+   48  git add .
+   49  git commit -m "Added main_test.txt"
+   50  git checkout -b develop
+   51  touch develop_test.txt
+   52  git add .
+   53  git commit -m "Added develop_test.txt"
+   54  nano develop_test.txt
+   55  git status
+   56  git add .
+   57  git commit -m "Updated develop_test.txt"
+   58  git checkout main
+   59  git checkout master
+   60  git merge develop
+   61  git log
+   62  git log --oneline --graph --all
+   63  history > command_list.csv
